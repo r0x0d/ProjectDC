@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgopgp06g6usl"
-path="res://.godot/imported/Skeleton_Minion.glb-a436ea3b033a6a6a5eb2ea0db995bf98.scn"
+path="res://.godot/imported/skeleton_minion.glb-68b3776b57e993f3f20f81a216b40b8b.scn"
 
 [deps]
 
-source_file="res://assets/enemies/characters/Skeleton_Minion.glb"
-dest_files=["res://.godot/imported/Skeleton_Minion.glb-a436ea3b033a6a6a5eb2ea0db995bf98.scn"]
+source_file="res://assets/enemies/characters/skeleton_minion.glb"
+dest_files=["res://.godot/imported/skeleton_minion.glb-68b3776b57e993f3f20f81a216b40b8b.scn"]
 
 [params]
 

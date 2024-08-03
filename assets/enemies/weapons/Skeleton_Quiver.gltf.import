@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cgfya27m1unjr"
-path="res://.godot/imported/Skeleton_Quiver.gltf-dd45b1fc0e27f0fd4101beb2d247986d.scn"
+path="res://.godot/imported/skeleton_quiver.gltf-3e9344f9e37bac880448f7d59b905690.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Quiver.gltf"
-dest_files=["res://.godot/imported/Skeleton_Quiver.gltf-dd45b1fc0e27f0fd4101beb2d247986d.scn"]
+source_file="res://assets/enemies/weapons/skeleton_quiver.gltf"
+dest_files=["res://.godot/imported/skeleton_quiver.gltf-3e9344f9e37bac880448f7d59b905690.scn"]
 
 [params]
 

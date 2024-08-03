@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://daedcqmhgw35f"
-path="res://.godot/imported/Skeleton_Arrow_Half.gltf-855fc35c9a532c2b6b59543e7267b80f.scn"
+path="res://.godot/imported/skeleton_arrow_half.gltf-1e9de6fef42e752c877257c5aa000a08.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Arrow_Half.gltf"
-dest_files=["res://.godot/imported/Skeleton_Arrow_Half.gltf-855fc35c9a532c2b6b59543e7267b80f.scn"]
+source_file="res://assets/enemies/weapons/skeleton_arrow_half.gltf"
+dest_files=["res://.godot/imported/skeleton_arrow_half.gltf-1e9de6fef42e752c877257c5aa000a08.scn"]
 
 [params]
 

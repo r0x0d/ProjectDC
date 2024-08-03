@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dpoiy0vtd5dbd"
-path="res://.godot/imported/Skeleton_Arrow_Broken.gltf-fa9582a48633832c2c570f25cee8e800.scn"
+path="res://.godot/imported/skeleton_arrow_broken.gltf-fdbca13e07d2a936033a131045c012ee.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Arrow_Broken.gltf"
-dest_files=["res://.godot/imported/Skeleton_Arrow_Broken.gltf-fa9582a48633832c2c570f25cee8e800.scn"]
+source_file="res://assets/enemies/weapons/skeleton_arrow_broken.gltf"
+dest_files=["res://.godot/imported/skeleton_arrow_broken.gltf-fdbca13e07d2a936033a131045c012ee.scn"]
 
 [params]
 

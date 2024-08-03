@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdha11s3jtaba"
-path.s3tc="res://.godot/imported/Skeleton_Warrior_skeleton_texture.png-7ade7458670f94ee26863e96ae3953e2.s3tc.ctex"
+path.s3tc="res://.godot/imported/skeleton_warrior_skeleton_texture.png-b34668639a563cdd883796074910379a.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/enemies/characters/Skeleton_Warrior_skeleton_texture.png"
-dest_files=["res://.godot/imported/Skeleton_Warrior_skeleton_texture.png-7ade7458670f94ee26863e96ae3953e2.s3tc.ctex"]
+source_file="res://assets/enemies/characters/skeleton_warrior_skeleton_texture.png"
+dest_files=["res://.godot/imported/skeleton_warrior_skeleton_texture.png-b34668639a563cdd883796074910379a.s3tc.ctex"]
 
 [params]
 

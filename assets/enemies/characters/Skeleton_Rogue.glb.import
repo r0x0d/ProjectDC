@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dd4d6sjeva0ni"
-path="res://.godot/imported/Skeleton_Rogue.glb-825ecfef9364d4a29cea21e2ee5b37f2.scn"
+path="res://.godot/imported/skeleton_rogue.glb-c63cecb4675a184483446f5d58a0dbc9.scn"
 
 [deps]
 
-source_file="res://assets/enemies/characters/Skeleton_Rogue.glb"
-dest_files=["res://.godot/imported/Skeleton_Rogue.glb-825ecfef9364d4a29cea21e2ee5b37f2.scn"]
+source_file="res://assets/enemies/characters/skeleton_rogue.glb"
+dest_files=["res://.godot/imported/skeleton_rogue.glb-c63cecb4675a184483446f5d58a0dbc9.scn"]
 
 [params]
 

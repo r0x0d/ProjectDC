@@ -1,3 +1,21 @@
-[gd_scene format=3 uid="uid://k3uyq3uhw8x8"]
+[gd_scene load_steps=4 format=3 uid="uid://k3uyq3uhw8x8"]
 
-[node name="Player" type="CharacterBody3D"]
+[ext_resource type="Script" path="res://scripts/movement.gd" id="1_380k0"]
+[ext_resource type="PackedScene" uid="uid://ciotbp7tsui4t" path="res://assets/heroes/characters/mage.glb" id="1_m4p8u"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_fbtyr"]
+radius = 0.771626
+
+[node name="CharacterBody3D" type="CharacterBody3D"]
+script = ExtResource("1_380k0")
+
+[node name="Pivot" type="Node3D" parent="."]
+
+[node name="Mage" parent="Pivot" instance=ExtResource("1_m4p8u")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.667584, 0)
+shape = SubResource("SphereShape3D_fbtyr")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-0.786601, -0.348845, 0.509476, 7.21337e-08, 0.825114, 0.564967, -0.617462, 0.444404, -0.649035, 3.18699, 4.72887, -2.3179)

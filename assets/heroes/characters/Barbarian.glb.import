@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bgfs15hu48xj8"
-path="res://.godot/imported/Barbarian.glb-6f24dc6f0e22c35faf6b8f5985dd6f06.scn"
+path="res://.godot/imported/barbarian.glb-68115820c7eb33a4927b532879f278b3.scn"
 
 [deps]
 
-source_file="res://assets/heroes/characters/Barbarian.glb"
-dest_files=["res://.godot/imported/Barbarian.glb-6f24dc6f0e22c35faf6b8f5985dd6f06.scn"]
+source_file="res://assets/heroes/characters/barbarian.glb"
+dest_files=["res://.godot/imported/barbarian.glb-68115820c7eb33a4927b532879f278b3.scn"]
 
 [params]
 

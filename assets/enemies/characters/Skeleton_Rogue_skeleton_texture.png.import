@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ug4bx8aejmga"
-path.s3tc="res://.godot/imported/Skeleton_Rogue_skeleton_texture.png-d7228f443c618a36e23a9ebc9fe73c20.s3tc.ctex"
+path.s3tc="res://.godot/imported/skeleton_rogue_skeleton_texture.png-bbad8b1a605aa4c8bce55b45504e8972.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/enemies/characters/Skeleton_Rogue_skeleton_texture.png"
-dest_files=["res://.godot/imported/Skeleton_Rogue_skeleton_texture.png-d7228f443c618a36e23a9ebc9fe73c20.s3tc.ctex"]
+source_file="res://assets/enemies/characters/skeleton_rogue_skeleton_texture.png"
+dest_files=["res://.godot/imported/skeleton_rogue_skeleton_texture.png-bbad8b1a605aa4c8bce55b45504e8972.s3tc.ctex"]
 
 [params]
 

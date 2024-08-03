@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm8nihpjiawfe"
-path="res://.godot/imported/table_medium_tablecloth_decorated_B.gltf-6973b5b2c35ff9079de973ba36bad6f9.scn"
+path="res://.godot/imported/table_medium_tablecloth_decorated_b.gltf-b27797f6719a2022a6a4f70731a6985d.scn"
 
 [deps]
 
-source_file="res://assets/dungeon/table_medium_tablecloth_decorated_B.gltf"
-dest_files=["res://.godot/imported/table_medium_tablecloth_decorated_B.gltf-6973b5b2c35ff9079de973ba36bad6f9.scn"]
+source_file="res://assets/dungeon/table_medium_tablecloth_decorated_b.gltf"
+dest_files=["res://.godot/imported/table_medium_tablecloth_decorated_b.gltf-b27797f6719a2022a6a4f70731a6985d.scn"]
 
 [params]
 

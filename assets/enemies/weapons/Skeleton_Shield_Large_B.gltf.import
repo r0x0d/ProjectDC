@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dfwctlb2ppide"
-path="res://.godot/imported/Skeleton_Shield_Large_B.gltf-806d3567f86833bbe532e0440859061b.scn"
+path="res://.godot/imported/skeleton_shield_large_b.gltf-98f5086ebee1e1382277e71a4decbfaf.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Shield_Large_B.gltf"
-dest_files=["res://.godot/imported/Skeleton_Shield_Large_B.gltf-806d3567f86833bbe532e0440859061b.scn"]
+source_file="res://assets/enemies/weapons/skeleton_shield_large_b.gltf"
+dest_files=["res://.godot/imported/skeleton_shield_large_b.gltf-98f5086ebee1e1382277e71a4decbfaf.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cikf3bh5bm3gv"
-path="res://.godot/imported/Skeleton_Axe.gltf-d4d623524d150c53d4748517374579d0.scn"
+path="res://.godot/imported/skeleton_axe.gltf-3c6a3a5492953579490e2e0448275aa0.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Axe.gltf"
-dest_files=["res://.godot/imported/Skeleton_Axe.gltf-d4d623524d150c53d4748517374579d0.scn"]
+source_file="res://assets/enemies/weapons/skeleton_axe.gltf"
+dest_files=["res://.godot/imported/skeleton_axe.gltf-3c6a3a5492953579490e2e0448275aa0.scn"]
 
 [params]
 

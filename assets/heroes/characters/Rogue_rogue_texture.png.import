@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g1m8s1aqk4if"
-path.s3tc="res://.godot/imported/Rogue_rogue_texture.png-2fe029499c8a6828d232e8cefa1527d4.s3tc.ctex"
+path.s3tc="res://.godot/imported/rogue_rogue_texture.png-5b4a97191eed1cfeaae51246c0542f83.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/heroes/characters/Rogue_rogue_texture.png"
-dest_files=["res://.godot/imported/Rogue_rogue_texture.png-2fe029499c8a6828d232e8cefa1527d4.s3tc.ctex"]
+source_file="res://assets/heroes/characters/rogue_rogue_texture.png"
+dest_files=["res://.godot/imported/rogue_rogue_texture.png-5b4a97191eed1cfeaae51246c0542f83.s3tc.ctex"]
 
 [params]
 

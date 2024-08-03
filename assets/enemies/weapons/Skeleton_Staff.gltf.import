@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgbi2brgpvgei"
-path="res://.godot/imported/Skeleton_Staff.gltf-c47cd8d9bd49fbab827e1bdb82eccf5c.scn"
+path="res://.godot/imported/skeleton_staff.gltf-246b0cf3b8b8263489841624ae6c8a52.scn"
 
 [deps]
 
-source_file="res://assets/enemies/weapons/Skeleton_Staff.gltf"
-dest_files=["res://.godot/imported/Skeleton_Staff.gltf-c47cd8d9bd49fbab827e1bdb82eccf5c.scn"]
+source_file="res://assets/enemies/weapons/skeleton_staff.gltf"
+dest_files=["res://.godot/imported/skeleton_staff.gltf-246b0cf3b8b8263489841624ae6c8a52.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c0s2w3xvu34hh"
-path="res://.godot/imported/wall_Tsplit.gltf-3d58e38b2bf557df0aceb57465779ef0.scn"
+path="res://.godot/imported/wall_tsplit.gltf-f66608d6e843a26ce41fb294c75d2662.scn"
 
 [deps]
 
-source_file="res://assets/dungeon/wall_Tsplit.gltf"
-dest_files=["res://.godot/imported/wall_Tsplit.gltf-3d58e38b2bf557df0aceb57465779ef0.scn"]
+source_file="res://assets/dungeon/wall_tsplit.gltf"
+dest_files=["res://.godot/imported/wall_tsplit.gltf-f66608d6e843a26ce41fb294c75d2662.scn"]
 
 [params]
 
