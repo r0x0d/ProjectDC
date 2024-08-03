@@ -1,0 +1,35 @@
+[gd_scene load_steps=3 format=3 uid="uid://b555qn6p6vwi3"]
+
+[ext_resource type="PackedScene" uid="uid://k3uyq3uhw8x8" path="res://scenes/player.tscn" id="1_bfm87"]
+[ext_resource type="PackedScene" uid="uid://haa5n4ash0mv" path="res://scenes/dungeon/floor_dirt_large.tscn" id="3_2fftf"]
+
+[node name="MovementTest" type="Node3D"]
+
+[node name="Player" parent="." instance=ExtResource("1_bfm87")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.66495, 0.5, 4.11165)
+
+[node name="FloorDirtLarge" parent="." instance=ExtResource("3_2fftf")]
+
+[node name="FloorDirtLarge2" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 0)
+
+[node name="FloorDirtLarge3" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 4)
+
+[node name="FloorDirtLarge4" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4)
+
+[node name="FloorDirtLarge5" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 8)
+
+[node name="FloorDirtLarge6" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 8)
+
+[node name="FloorDirtLarge7" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, 8)
+
+[node name="FloorDirtLarge8" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, 4)
+
+[node name="FloorDirtLarge9" parent="." instance=ExtResource("3_2fftf")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 8, 0, 0)

@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://haa5n4ash0mv"]
+
+[ext_resource type="PackedScene" uid="uid://bypf74cms0q32" path="res://assets/dungeon/floor_dirt_large.gltf" id="1_8pail"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_6ultv"]
+size = Vector3(4, 1, 4)
+
+[node name="FloorDirtLarge" type="StaticBody3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("BoxShape3D_6ultv")
+
+[node name="floor_dirt_large" parent="." instance=ExtResource("1_8pail")]

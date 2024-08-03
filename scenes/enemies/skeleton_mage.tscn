@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://em0tv1uh8jpg"]
+
+[ext_resource type="PackedScene" uid="uid://c0b3caiokge57" path="res://assets/enemies/characters/Skeleton_Mage.glb" id="1_x1goh"]
+
+[node name="SkeletonMage" type="Node3D"]
+
+[node name="Skeleton_Mage" parent="." instance=ExtResource("1_x1goh")]
