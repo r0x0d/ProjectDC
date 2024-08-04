@@ -1,8 +1,10 @@
-[gd_scene load_steps=2 format=3 uid="uid://2poh517c2km2"]
+[gd_scene load_steps=3 format=3 uid="uid://2poh517c2km2"]
 
-[ext_resource type="PackedScene" uid="uid://ciotbp7tsui4t" path="res://assets/heroes/characters/Mage.glb" id="1_efxo2"]
+[ext_resource type="PackedScene" uid="uid://ciotbp7tsui4t" path="res://assets/heroes/characters/mage.glb" id="1_efxo2"]
+[ext_resource type="Script" path="res://scripts/heroes/mage.gd" id="1_mn5vf"]
 
 [node name="Mage" type="CharacterBody3D"]
+script = ExtResource("1_mn5vf")
 
 [node name="CollisionPolygon3D" type="CollisionPolygon3D" parent="."]
 transform = Transform3D(1.52175, 0, 0, 0, 1, 0, 0, 0, 3.27503, 0, 0, 0)
